@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338565960141",
+    "project_id": "userfirebase-2fa3d",
+    "storage_bucket": "userfirebase-2fa3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338565960141:android:d0a09a793e41bd31397484",
+        "android_client_info": {
+          "package_name": "com.example.quanlyuser_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPS5XJcrXA9UafRFjL-zhusx56RiJMIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
